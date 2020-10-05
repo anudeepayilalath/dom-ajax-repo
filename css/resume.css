@@ -147,3 +147,11 @@ a:focus,
 a:active {
   color: #824027;
 }
+
+/*my css*/
+
+#inputdiv {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
